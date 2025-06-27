@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Welly-Liou</h1>
 <h3 align="center">A Robotics Engineer from Taiwan specializing in Human-Robot Collaboration, VR Teleoperation, and System Integration.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wellyowo" alt="wellyowo" /></a> </p>
-
-- 🔭 I’m currently working on **Finding a jobs for robotics**
+- 🔭 I’m currently working on **Finding a job for robotics**
 
 - 🌱 I’m currently learning **Advanced ROS2 concepts, Visual Servoing techniques for precise manipulation, and applying Reinforcement Learning to robotics.**
 
