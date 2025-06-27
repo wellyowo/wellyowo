@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **welly70114@gmail.com**
 
-- 📄 Know about my experiences [https://wellyowo.github.io/assets/cv/CV_en.pdf](https://wellyowo.github.io/assets/cv/CV_en.pdf)
+- 📄 Know about my experiences [CV](https://wellyowo.github.io/assets/cv/cv_en.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
